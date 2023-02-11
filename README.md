@@ -41,6 +41,5 @@ I'm Software Developer, who enjoys working on backend development and building m
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkcp&theme=material-palenight&hide_border=false&count_private=true&layout=compact&bg_color=00000000)--->
 
 ## 🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelpeters) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raphthedev)
