@@ -38,8 +38,9 @@ I'm Software Developer, who enjoys working on backend development and building m
 # 📊 GitHub Stats:
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkcp&count_private=true&theme=material-palenight&hide_border=false&bg_color=00000000)<br/><br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=rkcp&theme=material-palenight&hide_border=false&background=00000000)](https://git.io/streak-stats)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkcp&theme=material-palenight&hide_border=false&count_private=true&layout=compact&bg_color=00000000)
+<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkcp&theme=material-palenight&hide_border=false&count_private=true&layout=compact&bg_color=00000000)--->
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelpeters) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raphthedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelpeters) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raphthedev)
