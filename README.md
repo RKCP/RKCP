@@ -5,6 +5,7 @@
 # 💫 About Me:
 
 <!---[![](https://visitcount.itsvg.in/api?id=rkcp&icon=3&color=11)](https://visitcount.itsvg.in)--->
+![](https://visitcount.itsvg.in/api?id=rkcp&icon=3&color=11)](https://visitcount.itsvg.in)
 I'm Software Developer, who enjoys working on backend development and building mobile applications on the side.<br><br>🔭 I’m currently working as a Java Developer<br>🌱 I’m currently learning SwiftUI and TDD<br>👯 I’m looking to collaborate on SwiftUI<br>💬 Ask me about Java and SwiftUI
 
 # 💻 Tech Stack:
@@ -38,7 +39,7 @@ I'm Software Developer, who enjoys working on backend development and building m
 # 📊 GitHub Stats:
 ![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkcp&count_private=true&theme=material-palenight&hide_border=false&bg_color=00000000)<br/><br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=rkcp&theme=material-palenight&hide_border=false&background=00000000)](https://git.io/streak-stats)<br/><br/>
-<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkcp&theme=material-palenight&hide_border=false&count_private=true&layout=compact&bg_color=00000000)--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rkcp&theme=material-palenight&hide_border=false&count_private=true&layout=compact&bg_color=00000000)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelpeters) 
