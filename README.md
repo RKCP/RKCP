@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-<!---[![](https://visitcount.itsvg.in/api?id=rkcp&icon=3&color=11)](https://visitcount.itsvg.in)--->
+-[![](https://visitcount.itsvg.in/api?id=rkcp&icon=3&color=11)](https://visitcount.itsvg.in)-
 I'm Software Developer, who enjoys working on backend development and building mobile applications on the side.<br><br>🔭 I’m currently working as a Java Developer<br>🌱 I’m currently learning SwiftUI and TDD<br>👯 I’m looking to collaborate on SwiftUI<br>💬 Ask me about Java and SwiftUI
 
 # 💻 Tech Stack:
