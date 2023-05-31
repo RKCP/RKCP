@@ -36,7 +36,7 @@ I'm Software Developer, who enjoys working on backend development and building m
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkcp&count_private=true&theme=material-palenight&hide_border=false&bg_color=00000000)<br/><br/>
+![Raphael's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rkcp&count_private=true&theme=material-palenight&hide_border=false&bg_color=00000000)<br/><br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=rkcp&theme=material-palenight&hide_border=false&background=00000000)](https://git.io/streak-stats)<br/><br/>
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkcp&theme=material-palenight&hide_border=false&count_private=true&layout=compact&bg_color=00000000)
 
